@@ -1,6 +1,6 @@
 {
-  "name": "Zenith - Personal Wellness",
-  "description": "A minimalist wellness companion featuring AI-powered meditations, animated breathing guides, and mood tracking to help you find your center.",
+  "name": "CDT Clone - Carteira Digital",
+  "description": "Uma réplica da Carteira Digital de Trânsito brasileira (CDT), com visualização de documentos, informações do condutor e dashboard principal.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
